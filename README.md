@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there  👋
 
 <p>
 <img  src="https://img.shields.io/badge/.NET-5C2D91?logo=.NET&logoColor=white&style=for-the-badge">
@@ -19,7 +19,7 @@
 
 </p>
 
-### May the force be with you...
+### General Kenobi
 <!--
 **shomeuchi/shomeuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
